@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "import" : "nodemon ./js/import.js",
+    "import": "nodemon ./js/import.js",
     "numbers": "nodemon ./js/numbers.js",
     "string": "nodemon ./js/string.js",
     "dev": "nodemon",
@@ -14,6 +14,7 @@
   "author": "Natalja",
   "license": "MIT",
   "devDependencies": {
-    "dead-server": "^1.0.9"
+    "dead-server": "^1.0.9",
+    "nodemon": "^2.0.22"
   }
 }
