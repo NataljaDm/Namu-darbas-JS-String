@@ -1,6 +1,6 @@
-import {skaicius, a, b, c, d, i, f, g ,k} from "./numbers.js";
+import { skaicius, x, a, b, c, d, i, f, g ,k } from "./numbers.js";
 
-const lentele = `${skaicius} * 1 = ${skaicius}
+const lentele = `${skaicius} * ${x} = ${skaicius}
 ${skaicius} * ${a} = ${skaicius * a}
 ${skaicius} * ${b} = ${skaicius * b}
 ${skaicius} * ${c} = ${skaicius * c}
@@ -17,4 +17,4 @@ console.log(lentele);
 console.log();
 console.log(daugyba);
 
-export {lentele, daugyba};
+export { lentele, daugyba };

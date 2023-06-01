@@ -10,4 +10,4 @@ const g = 8;
 const k = 9;
 
 
-export {skaicius, x, a, b, c, d, i, f, g, k};
+export { skaicius, x, a, b, c, d, i, f, g, k };
